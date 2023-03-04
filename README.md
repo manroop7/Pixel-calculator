@@ -20,5 +20,6 @@ Features
     Error handling for incorrect input
     
     
-    ![image](https://user-images.githubusercontent.com/113238121/222885365-2430f6e9-07a2-4557-bc52-366b6332c579.png)
+![image](https://user-images.githubusercontent.com/113238121/222885395-0d5f27d5-b4eb-4168-9cd0-2bd71158c0ee.png)
+
 
