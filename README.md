@@ -16,5 +16,5 @@ Features
 
     Addition, subtraction, multiplication, and division operations
     Square root and exponential functions & log too .
-    easy to use GUI interface == -_- yes very easy to use  i mean it 
+    easy to use GUI interface == -_- yes very easy to use  !
     Error handling for incorrect input
