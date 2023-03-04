@@ -18,3 +18,7 @@ Features
     Square root and exponential functions & log too .
     easy to use GUI interface == -_- yes very easy to use  !
     Error handling for incorrect input
+    
+    
+    ![image](https://user-images.githubusercontent.com/113238121/222885365-2430f6e9-07a2-4557-bc52-366b6332c579.png)
+
