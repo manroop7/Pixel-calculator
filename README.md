@@ -1,8 +1,8 @@
 # Pixel-calculator
 
-My First Fun Project
+First Fun Project
 
-     Welcome to my first fun project! This is a simple Python program that performs some basic mathematical calculations such as addition, subtraction, multiplication,division, square root,log and exponential.
+     This is a simple Python program that performs some basic mathematical calculations such as addition, subtraction, multiplication,division, square root,log and exponential.
 
 Installation
 
